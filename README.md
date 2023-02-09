@@ -10,3 +10,6 @@ propriedade que precisamos alterar.
 ➔ O código deve rodar em um laço que vai receber propriedades até a
 pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso
 no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
+
+# Como visualizar?
+É necessario instalar o express eo npm, e fazer a visualização pelo node usando o comando = Node index.js.
